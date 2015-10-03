@@ -1,1 +1,3 @@
 # 09-30-2015 Programming with Scala
+
+The advent of multi-core processors has raised the importance of parallel processing and caused a renewed popularity of functional computing. One result is the appearance of programming languages that integrate object oriented and functional concepts. Scala is one of these. It is java compatible, runs on the JVM, and has a rapidly growing ecosystem. This talk will introduce some of Scala’s functional features in the context of functional style OO programming. Among the topics covered will be immutability, composition, pattern match (instead of switch), and some functional aspects of collections.
